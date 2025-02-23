@@ -11,7 +11,7 @@ export default function IshtgroupPage() {
         <p className="mb-4">
           Ishtgroup is a leading business solutions provider, dedicated to empowering organizations with innovative
           strategies and cutting-edge technologies. We partner with businesses of all sizes to drive growth, optimize
-          operations, and achieve sustainable success in today's dynamic market landscape.
+          operations, and achieve sustainable success in today&apos;s dynamic market landscape.
         </p>
       </section>
 
